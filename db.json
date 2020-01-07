@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "category": "Sporting Goods",
+      "price": "$49.99",
+      "stocked": true,
+      "name": "Football"
+    },
+    {
+      "id": 2,
+      "category": "Sporting Goods",
+      "price": "$9.99",
+      "stocked": false,
+      "name": "ball"
+    },
+    {
+      "id": 3,
+      "category": "Sporting Goods",
+      "price": "$19.99",
+      "stocked": false,
+      "name": "pingpong"
+    },
+    {
+      "id": 4,
+      "category": "Electronics",
+      "price": "$99.99",
+      "stocked": true,
+      "name": "iPod Touch"
+    },
+    {
+      "id": 5,
+      "category": "Electronics",
+      "price": "$10.99",
+      "stocked": false,
+      "name": "Xiaomi mia1"
+    },
+    {
+      "id": 6,
+      "category": "Electronics",
+      "price": "$20.99",
+      "stocked": false,
+      "name": "Iphone 5s"
+    },
+    {
+      "id": 7,
+      "name": "1",
+      "category": "2",
+      "price": "3",
+      "stocked": false
+    },
+    {
+      "id": 8,
+      "name": "Asus",
+      "category": "Laptop",
+      "price": "19$",
+      "stocked": false
+    }
+  ]
+}
